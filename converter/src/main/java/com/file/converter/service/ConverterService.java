@@ -53,7 +53,7 @@ public class ConverterService {
 			
 			
 		} catch (Exception e) {
-			System.err.println("Caught exception");
+			System.err.println("Caught exception in service");
 		}
 		
 	}
